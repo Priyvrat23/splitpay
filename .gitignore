@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*.pem
+kubeconfig*
+.next/
+dist/
+coverage/
+.DS_Store
+.vscode/
+.idea/
